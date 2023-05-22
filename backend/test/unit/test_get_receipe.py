@@ -4,3 +4,7 @@ import pytest
 @pytest.mark.unit
 def test():
     assert False
+
+@pytest.mark.unit
+def tester():
+    assert False
